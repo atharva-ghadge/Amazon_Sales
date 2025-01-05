@@ -22,10 +22,6 @@ Dashboard Highlights
  - Profit Margins: Displays profit metrics across different regions.
  - Customer Demographics: Provides insights into customer characteristics and buying patterns.
    
-About Me
-I am a data analyst passionate about transforming data into valuable insights. Skilled in Power BI, SQL, and data visualization, I developed this project to showcase my ability to analyze sales data and create business insights.
 
-Contact
-Feel free to connect with me for collaborations or questions about the project:
 
-LinkedIn: https://www.linkedin.com/in/eshan-dagade-94b58924a/
+

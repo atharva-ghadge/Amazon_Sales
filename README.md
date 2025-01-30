@@ -20,7 +20,7 @@ Getting Started
 Dashboard Highlights
  - Revenue Analysis: Breaks down sales revenue by region.
  - Profit Margins: Displays profit metrics across different regions.
- - Customer Demographics: Provides insights into customer characteristics and buying patterns.
+ - Customer Demographics: Provides insights into customer characteristics and buying patterns. 
    
 
 
